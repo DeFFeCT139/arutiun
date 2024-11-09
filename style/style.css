@@ -1630,7 +1630,7 @@ footer {
 }
 
 .feedback-description {
-  font-size: 10px;
+  font-size: 14px;
 }
 
 .feedback-popup.show {
@@ -1723,7 +1723,7 @@ footer {
   }
 
   .feedback-description {
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .feedback-popup input,
@@ -1800,7 +1800,7 @@ footer {
   }
 
   .feedback-description {
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .feedback-close {
